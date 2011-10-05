@@ -1,0 +1,9 @@
+3d-tic-tac-toe
+
+Author: Timothy R. Kopp
+
+An FPGA-based tic-tac-toe game. Uses a class NES (R) controller for input, and a
+VGA port to connect to a VGA monitor display.
+
+Built for the Altera DE1 and DE2 boards.
+
